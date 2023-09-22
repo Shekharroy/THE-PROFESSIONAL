@@ -362,8 +362,26 @@ h2 {
         height: auto;
         margin-top: 50px;
     }
+    .cardStyle{
+        margin: 5px 0;
+    }
+    .carousel-control-next {
+        display: none !important;
+    }
+
+    .carousel-control-prev {
+        display: none !important;
+    }
 }
 
+
+.carousel-control-next {
+    display: none !important;
+}
+
+.carousel-control-prev {
+    display: none !important;
+}
 
 @media (max-width: 360px) {
 
